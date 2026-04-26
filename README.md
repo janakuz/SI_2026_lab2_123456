@@ -2,10 +2,12 @@
 
 ###  Control Flow Graph
 
-searchBookByTitle
+**searchBookByTitle**
+
 Фотографија од control flow graph-от за searchBookByTitle
 
-borrowBook
+**borrowBook**
+
 Фотографија од control flow graph-от за borrowBook
 
 
